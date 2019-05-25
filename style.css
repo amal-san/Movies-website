@@ -1,0 +1,66 @@
+body {
+		font-family: 'Montserrat', sans-serif;
+		}
+
+
+#menu a{
+		color:white!important;
+		margin-left:150px;
+		padding-top:10px;
+		}
+#menu a:hover {
+		background:#babac4!important;
+		color:black!important;
+		
+	}
+#menu a:active {
+			border:black;
+			background:white;
+		}
+#head {
+	padding-top:50px;
+
+ }
+.row img:hover {
+		background:black;
+		opacity:.5;
+		transition: .5s ease;
+		background-color: black;
+	
+	}
+.social-icons a {
+		padding:10px;
+		font-size:30px;
+		text-decoration:none!important;
+		background:black;
+		color:white;
+		border-radius:50px;
+		margin:10px;
+		height:50px;
+		width:50px;
+}
+.social-icons a:hover {
+		color:red;
+}
+
+#text {
+		padding-left:350px;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
