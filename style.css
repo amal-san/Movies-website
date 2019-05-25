@@ -11,7 +11,7 @@ body {
 #menu a:hover {
 		background:#babac4!important;
 		color:black!important;
-		
+
 	}
 #menu a:active {
 			border:black;
@@ -26,7 +26,7 @@ body {
 		opacity:.5;
 		transition: .5s ease;
 		background-color: black;
-	
+
 	}
 .social-icons a {
 		padding:10px;
@@ -45,22 +45,7 @@ body {
 
 #text {
 		padding-left:350px;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+}
+.col-4 h4 {
+		padding-top:50px;
+}
